@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+# Unit test directory
+models/*
+
+# Visual Studio Code
+.vscode
+jsconfig.json
+
+# Mac droppings
+**/.DS_Store
